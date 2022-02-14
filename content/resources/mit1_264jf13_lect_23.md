@@ -3,7 +3,11 @@ content_type: resource
 description: This file contains information regarding lecture notes 23.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/904a4a6b335d6466e6125bd733a9493a_MIT1_264JF13_lect_23.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Lecture Notes & Exercises
+parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 23 Notes: Web: Web services: WSDL, registries'
+type: OCWFile
 uid: 904a4a6b-335d-6466-e612-5bd733a9493a
 ---
