@@ -4,6 +4,7 @@ description: This file contains information regarding lecture notes 16.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/cd376c682b66c4de5092b6fe5d3d31b5_MIT1_264JF13_lect_16.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document

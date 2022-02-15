@@ -4,6 +4,7 @@ description: ''
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/baf3e71583d1b5f18fde7a5f07be138d_L6_sol.vpp
 file_type: application/octet-stream
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other

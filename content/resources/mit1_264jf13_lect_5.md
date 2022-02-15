@@ -4,6 +4,7 @@ description: This resource contains information regarding lecture 5.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/41c8c1ef81e57a5202753fd8a90acf7b_MIT1_264JF13_lect_5.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document

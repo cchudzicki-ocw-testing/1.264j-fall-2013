@@ -4,6 +4,7 @@ description: This file contains information regarding lecture notes 20.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d545cb4dae7cf92e553c9c54544b2a10_MIT1_264JF13_lect_20.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document

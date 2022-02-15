@@ -4,6 +4,7 @@ description: This is a special file related to zip.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/20a6edbc402694cb38e8d5b75e6aee32_L18_input.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other
