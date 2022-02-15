@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other
 title: L15_input.csv
-type: OCWFile
 uid: 3f2b45c6-5d26-1e13-9a23-e98d5254bf58
 ---

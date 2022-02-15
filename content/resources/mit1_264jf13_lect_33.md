@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 33 Notes: Networks: Wired LANs, WANs'
-type: OCWFile
 uid: 03f5aab4-7177-6797-37db-9afafa5e164e
 ---

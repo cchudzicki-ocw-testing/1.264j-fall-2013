@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other
 title: L14_part1_input.zip
-type: OCWFile
 uid: efb4d18a-7438-e504-fbc2-76894f3db990
 ---

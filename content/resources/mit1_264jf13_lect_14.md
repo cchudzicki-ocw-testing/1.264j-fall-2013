@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 14 Notes: Database: SQL Homework 5'
-type: OCWFile
 uid: 018f5b83-56a5-3ee3-bd6b-540492cf9466
 ---

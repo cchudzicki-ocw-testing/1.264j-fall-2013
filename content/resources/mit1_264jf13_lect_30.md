@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 30 Notes: Networks: System architecture, part 1'
-type: OCWFile
 uid: eb58113c-bbf3-2e90-a1b1-18d20449fa56
 ---

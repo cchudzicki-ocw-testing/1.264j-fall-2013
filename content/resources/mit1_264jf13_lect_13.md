@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 13 Notes: Database: SQL joins, subqueries, views'
-type: OCWFile
 uid: 9a49b0d2-c4fa-95f3-c204-f732ce4296c2
 ---

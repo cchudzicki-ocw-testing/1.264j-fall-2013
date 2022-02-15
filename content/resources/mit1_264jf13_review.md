@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Fall 2013 Quiz 1 Review
-type: OCWFile
 uid: 794a977b-d472-bf43-8137-60d22e27744c
 ---

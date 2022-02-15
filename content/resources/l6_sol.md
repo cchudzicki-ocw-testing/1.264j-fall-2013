@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other
 title: L6_sol.vpp
-type: OCWFile
 uid: baf3e715-83d1-b5f1-8fde-7a5f07be138d
 ---

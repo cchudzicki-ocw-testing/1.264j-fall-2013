@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: HW5_sol.sql
-type: OCWFile
 uid: 7863be20-4610-8e96-e2eb-fdac72dcc80b
 ---

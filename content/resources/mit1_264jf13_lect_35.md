@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 35 Notes: Network: Fiber optics'
-type: OCWFile
 uid: d90b1740-5d21-a2fb-769b-dcae7bbd1402
 ---

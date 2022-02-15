@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 28 Notes: Security: Cryptography'
-type: OCWFile
 uid: 37145dc1-3cb0-6d99-44cd-568b58186d6b
 ---

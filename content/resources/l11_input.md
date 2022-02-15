@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other
 title: L11_input.sql
-type: OCWFile
 uid: d29e0eb9-e82b-b8c1-1ce0-a04f31d097f5
 ---

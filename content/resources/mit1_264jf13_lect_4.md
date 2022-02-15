@@ -9,6 +9,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 4 Notes: System process: Time and resource estimation, part
   2'
-type: OCWFile
 uid: 333e7de6-a6a9-f222-743a-b1afa40c6ebe
 ---

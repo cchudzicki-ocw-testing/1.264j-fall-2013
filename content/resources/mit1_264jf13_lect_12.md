@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 12 Notes: Database: SQL lab'
-type: OCWFile
 uid: 7709ff71-888b-bc1f-d523-8814e635c749
 ---

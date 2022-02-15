@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 5 Notes: System process: CMMI, ISO'
-type: OCWFile
 uid: 41c8c1ef-81e5-7a52-0275-3fd8a90acf7b
 ---

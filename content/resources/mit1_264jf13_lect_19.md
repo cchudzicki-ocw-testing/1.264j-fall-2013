@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 19 Notes: Web: Web and database: Forms'
-type: OCWFile
 uid: 06e32e40-0b16-aec3-7229-7532ceacc70e
 ---

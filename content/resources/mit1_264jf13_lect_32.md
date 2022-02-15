@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 32 Notes: Networks: Basic telecom technology'
-type: OCWFile
 uid: 9bcc3320-71b4-62bd-9bdb-dfae3b91599d
 ---

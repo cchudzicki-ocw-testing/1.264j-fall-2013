@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Fall 2012 Quiz 2 solutions
-type: OCWFile
 uid: c8689aa6-3b86-3381-4d95-38bc88d2fe47
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Homework 10 RFI article
-type: OCWFile
 uid: 42bec2d6-eeb2-cfac-b98c-7b31a2d63cae
 ---

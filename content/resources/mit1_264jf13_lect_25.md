@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 25 Notes: Security: Framework, concepts'
-type: OCWFile
 uid: d1c1ff3d-9be1-07f9-3c78-7d7ef93de351
 ---

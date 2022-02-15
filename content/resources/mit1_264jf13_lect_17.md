@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 17 Notes: Web: XHTML, CSS'
-type: OCWFile
 uid: 7468afb9-4f4b-53e2-0ced-2dd0b3fd9c95
 ---

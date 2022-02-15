@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 22 Notes: Web: Web services'
-type: OCWFile
 uid: d6f98296-65ab-d5d3-54c4-75ea05cb8410
 ---

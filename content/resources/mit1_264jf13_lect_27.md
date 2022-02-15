@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 27 Notes: Security: Protocols, part 1'
-type: OCWFile
 uid: f0ed9e12-24d4-6148-a6cf-bcff3dfdfbc0
 ---

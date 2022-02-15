@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other
 title: L17_input.zip
-type: OCWFile
 uid: 532ccc3a-2bd2-970c-2168-4d8214d970b5
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 25 Case Study Solutions
-type: OCWFile
 uid: ddeb4910-3cfc-c2ac-d588-49e832872bd2
 ---

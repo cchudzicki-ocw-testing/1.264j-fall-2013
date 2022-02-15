@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other
 title: L19_sol.zip
-type: OCWFile
 uid: 15b31052-6a0a-ffb2-be17-5b06bf36a7d4
 ---

@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other
 title: L6_input.vpp
-type: OCWFile
 uid: 0c5bad53-65db-1a24-e8b3-cc4c5a2e3562
 ---

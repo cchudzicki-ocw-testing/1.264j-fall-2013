@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 37 Notes: Enterprise, VPN, MPLS. Course summary.'
-type: OCWFile
 uid: c904e222-0039-9452-fb21-2067e8aeeaf2
 ---

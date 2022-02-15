@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 32 Case Studies Solutions
-type: OCWFile
 uid: 2009d9f8-81ef-25dc-3609-c8d4a19b415d
 ---

@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 7 Notes: System process: UML, part 2'
-type: OCWFile
 uid: a587c757-9452-706d-3d39-fd3560a70acc
 ---

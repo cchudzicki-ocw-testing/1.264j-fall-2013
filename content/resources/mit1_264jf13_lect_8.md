@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 8 Notes: Database: Data modeling, part 1'
-type: OCWFile
 uid: 3967745f-553d-d0a4-db28-6af2ff226421
 ---

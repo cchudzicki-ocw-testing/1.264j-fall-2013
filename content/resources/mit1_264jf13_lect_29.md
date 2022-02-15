@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 29 Notes: Security: SSL, Internet'
-type: OCWFile
 uid: 930910ca-8f28-10ab-f578-4896934d1582
 ---

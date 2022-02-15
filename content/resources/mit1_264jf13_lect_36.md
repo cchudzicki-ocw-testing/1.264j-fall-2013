@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 36 Notes: Networks: Wireless'
-type: OCWFile
 uid: 7ed97701-d93f-a60a-bae3-643005ac64b7
 ---

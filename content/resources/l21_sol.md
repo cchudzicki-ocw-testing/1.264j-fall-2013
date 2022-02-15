@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Other
 title: L21_sol.xml
-type: OCWFile
 uid: b070d51d-d06a-219d-ab92-fa42043a73da
 ---

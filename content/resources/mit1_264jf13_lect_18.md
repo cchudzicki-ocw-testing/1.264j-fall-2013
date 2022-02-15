@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 18 Notes: Web: Connecting Web and database'
-type: OCWFile
 uid: d510b253-eb73-df9c-8ea3-67932ec6de5c
 ---

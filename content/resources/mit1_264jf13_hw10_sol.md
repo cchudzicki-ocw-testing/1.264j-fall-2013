@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Homework Solutions 10
-type: OCWFile
 uid: 236b8d9d-ef38-bb75-10a2-ed3340d8ca4a
 ---

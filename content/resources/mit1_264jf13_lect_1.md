@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 1 Notes: System process: Introduction'
-type: OCWFile
 uid: 197639d4-3806-af04-207f-795d5c539d68
 ---

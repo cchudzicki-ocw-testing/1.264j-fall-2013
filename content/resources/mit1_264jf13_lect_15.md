@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 15 Notes: Database: SQL transactions, connections'
-type: OCWFile
 uid: d549b3ec-f403-10a9-3fec-5da29a293fd5
 ---

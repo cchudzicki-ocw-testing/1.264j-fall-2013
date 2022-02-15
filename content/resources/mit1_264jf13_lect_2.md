@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 2 Notes: System process: Fundamentals'
-type: OCWFile
 uid: 1fa27232-9932-083b-e041-cc75b9c27a6e
 ---

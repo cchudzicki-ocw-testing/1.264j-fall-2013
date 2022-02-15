@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: HW3_sol.vpp
-type: OCWFile
 uid: 822bde44-aad3-756c-21bf-35013e617786
 ---

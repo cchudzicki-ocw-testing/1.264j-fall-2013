@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: HW6_sol.zip
-type: OCWFile
 uid: a6e16333-4f6c-a9b2-1ee6-55a3396b88c9
 ---

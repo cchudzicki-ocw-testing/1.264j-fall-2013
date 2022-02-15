@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 23 Notes: Web: Web services: WSDL, registries'
-type: OCWFile
 uid: 904a4a6b-335d-6466-e612-5bd733a9493a
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Lecture 24 Case Studies
-type: OCWFile
 uid: 0088de39-b98b-2470-11f4-231f05f2f721
 ---

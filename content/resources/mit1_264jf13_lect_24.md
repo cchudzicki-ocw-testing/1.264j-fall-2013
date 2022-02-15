@@ -8,6 +8,5 @@ parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
 resourcetype: Document
 title: '1.264J Lecture 24 Notes: Web: Service oriented architecture, EDI'
-type: OCWFile
 uid: 9075b47c-2eb2-9b89-8a7b-b1226c82a976
 ---
