@@ -6,45 +6,40 @@ ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 1050932f-064b-9bce-3411-d84278620c42
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _1.264J Database, Internet, and Systems Integration Technologies_ as it was taught by Dr. George Kocur in Fall 2013.
 
 The course focuses on defining an engineering and business software system, producing a working version quickly, managing the overall process, and becoming very familiar with database and Web technologies that are central to current software systems. The course has no programming, except that students write database queries in SQL; the system is built using a set of tools that do not require software coding.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
 The goal is for students to learn to design, implement and manage engineering and business software systems. It’s an engineering course, and students build a system during the term. As part of the course, students learn about project management, software modeling (UML), databases, the Internet and Web, security, and data communications.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   Permission of the instructor
+- Permission of the instructor
 
 ### Requirements Satisfied
 
-*   H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
-*   [Master of Engineering in Logistics](https://scm.mit.edu/) degree requirement
-*   [Master of Engineering - Transportation](https://cee.mit.edu/graduate/MEng/Transportation) degree requirement
-*   [Master of Science - Transportation](http://cee.mit.edu/graduate/mst) information technology requirement
+- H-Level Graduate Credit ![](/images/educator/icon-question-hlevel.png)
+- [Master of Engineering in Logistics](https://scm.mit.edu/) degree requirement
+- [Master of Engineering - Transportation](https://cee.mit.edu/education/graduate/graduate-degrees/) degree requirement
+- [Master of Science - Transportation](http://cee.mit.edu/graduate/mst) information technology requirement
 
 ### Offered
 
-*   Every fall semester
+- Every fall semester
 
-{{< anchor "studentinfo" >}}{{< /anchor >}}
+{{\< anchor "studentinfo" >}}{{\< /anchor >}}
 
-Student Information
--------------------
+## Student Information
 
-![67 students took this course in Fall 2013.]({{< resource_file 7661a4b7-ce4c-d695-b105-dc8fce906b2c >}})
+!\[67 students took this course in Fall 2013.\]({{\< resource\_file 7661a4b7-ce4c-d695-b105-dc8fce906b2c >}})
 
 ### Enrollment
 
@@ -62,25 +57,22 @@ Most students are in master’s programs for transportation engineering or logis
 
 About half of the students have a few years of work experience, and about half of the students come directly from an undergraduate program. They typically have limited experience with software and systems.
 
-{{< anchor "studenttime" >}}{{< /anchor >}}
+{{\< anchor "studenttime" >}}{{\< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+## Lecture
 
-*   Met 3 times per week for 1.5 hours per session; 39 sessions total
-*   Based around [lectures, with an in-class exercise]({{< baseurl >}}/pages/lecture-notes-exercises) during most sessions
-*   [Discussion of case studies]({{< baseurl >}}/pages/assignments)
-*   Two class sessions were spent on [exams]({{< baseurl >}}/pages/exams)
+- Met 3 times per week for 1.5 hours per session; 39 sessions total
+- Based around \[lectures, with an in-class exercise\]({{\< baseurl >}}/pages/lecture-notes-exercises) during most sessions
+- \[Discussion of case studies\]({{\< baseurl >}}/pages/assignments)
+- Two class sessions were spent on \[exams\]({{\< baseurl >}}/pages/exams)
 
-Out of class
-------------
+## Out of class
 
-*   [Readings]({{< baseurl >}}/pages/readings)
-*   Downloading and installing [tools]({{< baseurl >}}/pages/tools)
-*   [Homework]({{< baseurl >}}/pages/assignments)
-*   Completion of case studies and in-class exercises
+- \[Readings\]({{\< baseurl >}}/pages/readings)
+- Downloading and installing \[tools\]({{\< baseurl >}}/pages/tools)
+- \[Homework\]({{\< baseurl >}}/pages/assignments)
+- Completion of case studies and in-class exercises
