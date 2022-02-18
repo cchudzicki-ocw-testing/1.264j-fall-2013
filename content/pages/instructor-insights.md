@@ -66,13 +66,13 @@ During an average week, students were expected to spend 12 hours on the course, 
 ## Lecture
 
 - Met 3 times per week for 1.5 hours per session; 39 sessions total
-- Based around [lectures, with an in-class exercise]({{< baseurl >}}/pages/lecture-notes-exercises) during most sessions
-- [Discussion of case studies]({{< baseurl >}}/pages/assignments)
-- Two class sessions were spent on [exams]({{< baseurl >}}/pages/exams)
+- Based around {{< resource_link 5fa4a8fe-a152-f202-8c49-92784003b58c "lectures, with an in-class exercise" >}} during most sessions
+- {{< resource_link a0a3c216-926e-4ae3-63e2-730c50fecd92 "Discussion of case studies" >}}
+- Two class sessions were spent on {{< resource_link 26eb7a62-1846-55b9-5dff-48f16fd08f13 "exams" >}}
 
 ## Out of class
 
-- [Readings]({{< baseurl >}}/pages/readings)
-- Downloading and installing [tools]({{< baseurl >}}/pages/tools)
-- [Homework]({{< baseurl >}}/pages/assignments)
+- {{< resource_link 74714794-5d07-5b04-2bca-ed733fba92ec "Readings" >}}
+- Downloading and installing {{< resource_link ddf99230-ad1b-c1e4-2e83-a4017e23e429 "tools" >}}
+- {{< resource_link a0a3c216-926e-4ae3-63e2-730c50fecd92 "Homework" >}}
 - Completion of case studies and in-class exercises
