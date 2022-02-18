@@ -35,11 +35,11 @@ The goal is for students to learn to design, implement and manage engineering an
 
 - Every fall semester
 
-{{\< anchor "studentinfo" >}}{{\< /anchor >}}
+{{< anchor "studentinfo" >}}{{< /anchor >}}
 
 ## Student Information
 
-!\[67 students took this course in Fall 2013.\]({{\< resource\_file 7661a4b7-ce4c-d695-b105-dc8fce906b2c >}})
+{{< resource 7661a4b7-ce4c-d695-b105-dc8fce906b2c >}}
 
 ### Enrollment
 
@@ -57,7 +57,7 @@ Most students are in master’s programs for transportation engineering or logis
 
 About half of the students have a few years of work experience, and about half of the students come directly from an undergraduate program. They typically have limited experience with software and systems.
 
-{{\< anchor "studenttime" >}}{{\< /anchor >}}
+{{< anchor "studenttime" >}}{{< /anchor >}}
 
 ## How Student Time Was Spent
 
@@ -66,13 +66,13 @@ During an average week, students were expected to spend 12 hours on the course, 
 ## Lecture
 
 - Met 3 times per week for 1.5 hours per session; 39 sessions total
-- Based around \[lectures, with an in-class exercise\]({{\< baseurl >}}/pages/lecture-notes-exercises) during most sessions
-- \[Discussion of case studies\]({{\< baseurl >}}/pages/assignments)
-- Two class sessions were spent on \[exams\]({{\< baseurl >}}/pages/exams)
+- Based around [lectures, with an in-class exercise]({{< baseurl >}}/pages/lecture-notes-exercises) during most sessions
+- [Discussion of case studies]({{< baseurl >}}/pages/assignments)
+- Two class sessions were spent on [exams]({{< baseurl >}}/pages/exams)
 
 ## Out of class
 
-- \[Readings\]({{\< baseurl >}}/pages/readings)
-- Downloading and installing \[tools\]({{\< baseurl >}}/pages/tools)
-- \[Homework\]({{\< baseurl >}}/pages/assignments)
+- [Readings]({{< baseurl >}}/pages/readings)
+- Downloading and installing [tools]({{< baseurl >}}/pages/tools)
+- [Homework]({{< baseurl >}}/pages/assignments)
 - Completion of case studies and in-class exercises
