@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the lecture notes for each session of the course,
+  in-class exercises with solutions, and supporting files.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Notes & Exercises

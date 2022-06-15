@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for downloading and configuring the
+  required software tools for the course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

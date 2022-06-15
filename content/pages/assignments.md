@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the case studies for the course, homework assignments,
+  and solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
