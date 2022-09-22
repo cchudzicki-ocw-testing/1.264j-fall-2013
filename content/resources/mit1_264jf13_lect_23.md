@@ -4,6 +4,7 @@ description: This file contains information regarding lecture notes 23.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/904a4a6b335d6466e6125bd733a9493a_MIT1_264JF13_lect_23.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes & Exercises
 parent_type: CourseSection
